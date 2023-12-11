@@ -1,6 +1,7 @@
 :root {
   --color-shadow: rgb(204 177 161 / 60%);
 }
+
 body {
   overflow-x: hidden;
 }
@@ -11,10 +12,15 @@ body {
 
 #nexmoe-content .nexmoe-post-copyright {
   background-color: transparent;
+  color: #2bd5d7;
+}
+
+.nexmoe-post-copyright a {
+  color: inherit;
 }
 
 iframe {
-  width: 100%!important;
+  width: 100% !important;
 }
 
 article ul li {
