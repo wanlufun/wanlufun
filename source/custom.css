@@ -26,3 +26,13 @@ iframe {
 article ul li {
   line-height: 1.5rem;
 }
+
+article p {
+  margin: 12px 0;
+}
+
+p > img {
+  position: relative;
+  width: 80%;
+  left: 10%;
+}
