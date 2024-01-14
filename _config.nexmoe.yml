@@ -109,17 +109,17 @@ slotSidebar: |
 # 评论框插槽
 slotComment: |
   <script src="https://giscus.app/client.js"
-        data-repo="BreezyOrigin/breezyorigin.github.io"
-        data-repo-id="R_kgDOK34nkg"
-        data-category="General"
-        data-category-id="DIC_kwDOJI1XUM4CU1nn"
-        data-mapping="pathname"
+        data-repo="BreezyOrigin/BreezyOrigin.github.io"
+        data-repo-id="R_kgDOK37mFg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOK37mFs4CboO_"
+        data-mapping="title"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
         data-theme="preferred_color_scheme"
-        data-lang="en"
+        data-lang="zh-CN"
         data-loading="lazy"
         crossorigin="anonymous"
         async>
