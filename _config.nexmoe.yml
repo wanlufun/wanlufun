@@ -109,7 +109,7 @@ slotSidebar: |
 # 评论框插槽
 slotComment: |
   <script src="https://giscus.app/client.js"
-        data-repo="BreezyOrigin/BreezyOrigin.github.io"
+        data-repo="StudentWanLu/StudentWanLu.github.io"
         data-repo-id="R_kgDOK37mFg"
         data-category="Announcements"
         data-category-id="DIC_kwDOK37mFs4CboO_"
