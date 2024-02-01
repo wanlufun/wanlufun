@@ -1,13 +1,10 @@
-## Hey 👋, I'm Student.WanLU!
-
+## Hey 👋, I'm Student.WanLu!
 
 
 
 ### Glad to see you here!
 I’m a full-stack developer.
 
-
-<br/>
 
 
 ## Languages and Tools
@@ -29,33 +26,8 @@ I’m a full-stack developer.
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>
 </div>
 
-<br/>
-
 
 ## Github Stats
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=studentwanlu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=studentwanlu&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<br/>
-
-
-
-<br/>
+<table><tr><td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api?username=studentwanlu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /></td><td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=studentwanlu&hide_border=true&layout=compact" align="left" style="width: 100%" /></td></tr></table>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=studentwanlu&&style=flat-square)
-
-
-<br/>
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
