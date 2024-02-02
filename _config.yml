@@ -151,3 +151,15 @@ deploy:
   privateKey: [ path/to/privateKey ]
   passphrase: [ passphrase ]
   agent: [ path/to/agent/socket ]
+
+# rss
+feed:
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit: 20
+  content: true
+  order_by: -date
