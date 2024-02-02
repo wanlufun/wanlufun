@@ -4,6 +4,7 @@ tags:
   - git
 abbrlink: 46047e6a
 date: 2024-02-01 22:14:08
+cover: https://images.wanlu.fun/picgo/202402011404993.png
 ---
 
 ## 问题背景
