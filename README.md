@@ -9,14 +9,17 @@
 - ⚡ &nbsp;Fun fact: I love delving into every corner of programming and computer science, constantly exploring new trends, technologies, and theories that keep expanding the horizon of this ever-evolving field!
 
 
+
+<h2>✒️ &nbsp;Recent posts</h2>
+
+
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-wanlufun.vercel.app/api?username=wanlufun&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-wanlufun.vercel.app/api?username=wanlufun&show_icons=true">
 </picture>
 
 
-
-<h2>✒️ &nbsp;Recent posts</h2>
 
 
 <!-- BLOG-POST-LIST:START -->
