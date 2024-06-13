@@ -18,6 +18,11 @@
 
 <h2>✒️ &nbsp;Recent posts</h2>
 <!-- BLOG-POST-LIST:START -->
+- [国内 ISP 与国际 ISP 的连接详情](https://www.wanlu.fun/fa5ceeef.html)
+- [自建 Bitwarden 服务器并配置 HTTPS](https://www.wanlu.fun/4b35ba1.html)
+- [CentOS 7.6 安装 Docker 与 Compose](https://www.wanlu.fun/65063c20.html)
+- [使用 SCL 给 Centos7.6 升级 GCC 版本](https://www.wanlu.fun/cfc49606.html)
+- [CentOS 7 编译安装 Nginx](https://www.wanlu.fun/7bbac0ee.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p><a target="_blank" href="https://www.wanlu.fun">Read More</a></p>
