@@ -1,9 +1,9 @@
-<h2><img src="https://images.wanlu.fun/picgo/202406131540166.gif" width="30"/> Hey! Nice to see you.</h2>
+<h2><img src="https://images.wanlu.fun/picgo/202406131540166.gif" width="30"/> &nbsp;Hey! Nice to see you.</h2>
 
 
 <p>I'm Lu Wan, a Fullstack developer.</p>
 
-- 🔭 &nbsp;I’m currently working on something cool. 😉
+- 🔭 &nbsp;I’m currently working on something cool. &nbsp;😉
 - 🌱 &nbsp;I’m currently learning Rust.
 - 💬 &nbsp;Ask me about anything related to Java/Python/Rust or Spring/Flask or Docker/Linux.
 - ⚡ &nbsp;Fun fact: I love delving into every corner of programming and computer science, constantly exploring new trends, technologies, and theories that keep expanding the horizon of this ever-evolving field!
@@ -60,11 +60,11 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>🎁 &nbsp;Projects</b></td>
+      <td><b>⭐ &nbsp;Stars</b></td>
+      <td><b>📚 &nbsp;Forks</b></td>
+      <td><b>🛎 &nbsp;Issues</b></td>
+      <td><b>📬 &nbsp;Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
