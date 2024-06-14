@@ -1,9 +1,9 @@
-name: Pages
+name: Publish Pages
 
 on:
   push:
     branches:
-      - main # default branch
+      - main
 
 env:
   TZ: Asia/Shanghai
@@ -12,32 +12,39 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Respository
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          # If your repository depends on submodule, please see: https://github.com/actions/checkout
           submodules: recursive
-      - name: Use Node.js 16.20.0
-        uses: actions/setup-node@v2
+
+      - name: Setup Node.js 18
+        uses: actions/setup-node@v4
         with:
-          node-version: '16.20.0'
-      - name: Cache NPM dependencies
+          node-version: 18
+
+      - name: Cache NPM Dependencies
         uses: actions/cache@v2
         with:
           path: node_modules
           key: ${{ runner.OS }}-npm-cache
           restore-keys: |
             ${{ runner.OS }}-npm-cache
+
       - name: Install Dependencies
         run: npm install
+        
       - name: Clean
         run: npm run clean
+
       - name: Build
         run: npm run build
+
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+
   deploy:
     needs: build
     permissions:
@@ -50,4 +57,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4

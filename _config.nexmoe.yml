@@ -26,17 +26,20 @@ customStyles:
 iconlib: # //at.alicdn.com/t/font_1038733_0xvrvpg9c0r.css
 
 menu:
-    回到首页:
-        - /
-        - icon-home
-    文章归档:
-        - /archive.html
-        - icon-container
-    我的朋友:
-        - /PY.html
-    关于博主:
-        - /about.html
-        - icon-info-circle
+    HomePage:
+      - /
+      - icon-home
+    Archives:
+      - /archive.html
+      - icon-container
+    Friend:
+      - /PY.html
+    Website Status:
+      - https://status.wanlu.fun/
+      - icon-areachart
+    Profile Page:
+      - https://home.wanlu.fun/
+      - icon-info-circle
 
 widgets:
     - name: search
@@ -47,15 +50,24 @@ widgets:
             url: https://cn.bing.com/search?q=site:nexmoe.com # 搜索引擎地址，在type为swiftype时无效 e.g:https://www.google.com/search?q={你的博客链接}
             id: <swiftype-id> # swiftype的id，见启用教程。在type为engine时无效
     - name: social
-      enable: false
+      enable: true
       options: 
         social:
-            GitHub:
-                - https://github.com/nexmoe/
-                - icon-github
-                - rgb(25, 23, 23)
-                - rgba(25, 23, 23, .1)
-                -
+          GitHub:
+            - https://github.com/wanlufun/
+            - icon-github
+            - rgb(249, 174, 8)
+            - rgba(249, 174, 8, .1)
+          Mail:
+            - mailto:wanlu@wanlu.fun
+            - icon-mail-fill
+            - rgb(231, 106, 141)
+            - rgba(231, 106, 141, .1)
+          RSS:
+            - https://www.wanlu.fun/atom.xml
+            - icon-rss
+            - rgb(247, 132, 34)
+            - rgba(247, 132, 34, .1)
     - name: category
       enable: true
 
