@@ -1,5 +1,5 @@
 ---
-title: git 三种合并方式（rebase / merge / squash）
+title: Git 三种合并方式（rebase / merge / squash）
 tags:
   - git
 abbrlink: 46047e6a
