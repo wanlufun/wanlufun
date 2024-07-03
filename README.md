@@ -15,8 +15,8 @@
 
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-wanlufun.vercel.app/api?username=wanlufun&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-wanlufun.vercel.app/api?username=wanlufun&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-wanlufun.vercel.app/api?username=wanlufun&theme=dark&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
+    <img align="right" width="50%" src="https://github-readme-stats-wanlufun.vercel.app/api?username=wanlufun&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
 </picture>
 
 
