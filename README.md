@@ -91,8 +91,3 @@
   <img src="https://raw.githubusercontent.com/wanlufun/wanlufun/snake/github-contribution-grid-snake.svg#gh-light-mode-only" style="max-width:100%;">
   <img src="https://raw.githubusercontent.com/wanlufun/wanlufun/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" style="max-width:100%;">
 </p>
-
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=wanlufun&&style=flat-square">
-</p>
