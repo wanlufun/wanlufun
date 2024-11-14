@@ -59,7 +59,7 @@
 
 
 <h2>📖 &nbsp;Open source projects</h2>
-<table>
+<table style="display:table;width:100%">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 &nbsp;Projects</b></td>
