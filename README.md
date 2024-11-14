@@ -50,15 +50,11 @@
   <code><img alt="Rust" src="https://img.shields.io/badge/-Rust-46a2f1?style=flat-square&logo=Rust&logoColor=white" /></code>
   <code><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2088FF?style=flat-square&logo=typescript&logoColor=white" /></code>
   <code><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-1a73e8?style=flat-square&logo=html5&logoColor=white" /></code>
-  <code><img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=white" /></code>
   <code><img alt="Spring" src="https://img.shields.io/badge/-Spring-5849BE?style=flat-square&logo=spring&logoColor=white" /></code>
   <code><img alt="Github" src="https://img.shields.io/badge/-Github-311C87?style=flat-square&logo=github&logoColor=white" /></code>
-  <code><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-430098?style=flat-square&logo=webpack&logoColor=white" /></code>
   <code><img alt="Docker" src="https://img.shields.io/badge/-Docker-764ABC?style=flat-square&logo=docker&logoColor=white" /></code>
   <code><img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-B7178C?style=flat-square&logo=github-actions&logoColor=white" /></code>
   <code><img alt="Git" src="https://img.shields.io/badge/-Git-E10098?style=flat-square&logo=git&logoColor=white" /></code>
-  <code><img alt="NPM" src="https://img.shields.io/badge/-NPM-CC6699?style=flat-square&logo=npm&logoColor=white" /></code>
-  <code><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-db7092?style=flat-square&logo=Node.js&logoColor=white" /></code>
 </p>
 
 
